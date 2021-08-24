@@ -1,4 +1,5 @@
 <img align="right" alt="GIF" height="160px" src="https://github.com/cfrodriguezb17/cfrodriguezb17/blob/main/assets/gifsito.gif" />
+
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
