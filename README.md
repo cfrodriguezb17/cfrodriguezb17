@@ -1,6 +1,6 @@
 <img align="left" alt="GIF" height="320px" src="https://github.com/cfrodriguezb17/cfrodriguezb17/blob/main/assets/gifsito.gif" />
 
-### Languages I use
+### Technologies I use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
