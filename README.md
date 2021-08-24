@@ -13,7 +13,9 @@
 ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Graphic Card](https://img.shields.io/badge/NVIDIA-GTX1690-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![CPU](https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA-940MX-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 <!---
 cfrodriguezb17/cfrodriguezb17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
