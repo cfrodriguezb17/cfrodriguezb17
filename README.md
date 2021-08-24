@@ -14,28 +14,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-### Some of the technologies i have worked with
-
-<br>
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python],
-   technologies: {
-      frontEnd: {
-         js: ["React"],
-         css: ["Materialize", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         php: ["Laravel"],
-      },
-      databases: ["mySQL", "SQLServer"],
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "Beat my friends in karts.",
-};
-```
 <!---
 cfrodriguezb17/cfrodriguezb17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
