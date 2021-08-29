@@ -1,4 +1,4 @@
-<div height="320px">
+<div width="428px">
   <img align="left" alt="GIF"  src="https://i.imgur.com/rEdJcXK.gif"/>
 </div>
 
