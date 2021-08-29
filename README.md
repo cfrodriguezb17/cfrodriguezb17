@@ -1,4 +1,4 @@
-<img align="left" alt="GIF" height="320px" src="https://i.imgur.com/rEdJcXK.gif"/>
+<img align="left" alt="GIF" width="428" height="320px" src="https://i.imgur.com/rEdJcXK.gif"/>
 
 ### Technologies I use
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
