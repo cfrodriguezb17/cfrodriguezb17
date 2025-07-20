@@ -1,12 +1,6 @@
-<table>
-  <tr>
-    <td valign="top">
-      <img width="428px" alt="initial-d" src="https://i.imgur.com/rEdJcXK.gif"/>
-    </td>
-    <td valign="top">
-      
-### Technologies I use
+<img width="428px" align="left" alt="initial-d"  src="https://i.imgur.com/rEdJcXK.gif"/>
 
+### Technologies I use
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,10 +21,6 @@
 
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
-    </td>
-  </tr>
-</table>
 <!---
 cfrodriguezb17/cfrodriguezb17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
